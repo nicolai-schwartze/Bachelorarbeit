@@ -1,0 +1,108 @@
+  PID   UID PRI  NI %CPU COMMAND
+ 1786  1000  20   0  0.7 nodejs
+ 1796  1000  20   0  0.5 node
+    7     0  20   0  0.1 rcu_preempt
+  785     0  20   0  0.1 haveged
+  786   100  20   0  0.1 systemd-timesyn
+ 1825  1000  20   0  0.1 tmux: server
+11484  1000  20   0  0.1 loadbalancer
+    1     0  20   0  0.0 systemd
+    2     0  20   0  0.0 kthreadd
+    3     0  20   0  0.0 ksoftirqd/0
+    5     0   0 -20  0.0 kworker/0:0H
+    8     0  20   0  0.0 rcu_sched
+    9     0  20   0  0.0 rcu_bh
+   10     0 -100  -  0.0 migration/0
+   11     0   0 -20  0.0 lru-add-drain
+   12     0 -100  -  0.0 watchdog/0
+   13     0  20   0  0.0 cpuhp/0
+   14     0  20   0  0.0 kdevtmpfs
+   16     0   0 -20  0.0 netns
+   17     0  20   0  0.0 khungtaskd
+   18     0  20   0  0.0 oom_reaper
+   19     0   0 -20  0.0 writeback
+   20     0  20   0  0.0 kcompactd0
+   21     0  25   5  0.0 ksmd
+   22     0   0 -20  0.0 crypto
+   23     0   0 -20  0.0 kintegrityd
+   24     0   0 -20  0.0 bioset
+   25     0   0 -20  0.0 kblockd
+   26     0   0 -20  0.0 ata_sff
+   27     0 -51   -  0.0 irq/163-4802a00
+   28     0 -51   -  0.0 irq/164-4819c00
+   29     0   0 -20  0.0 devfreq_wq
+   30     0   0 -20  0.0 watchdogd
+   31     0   0 -20  0.0 rpciod
+   32     0   0 -20  0.0 xprtiod
+   33     0  20   0  0.0 kswapd0
+   34     0   0 -20  0.0 vmstat
+   35     0   0 -20  0.0 nfsiod
+   36     0   0 -20  0.0 bioset
+   37     0   0 -20  0.0 xfsalloc
+   38     0   0 -20  0.0 xfs_mru_cache
+   67     0   0 -20  0.0 kthrotld
+   68     0  20   0  0.0 kapmd
+   69     0  20   0  0.0 spi1
+   70     0  20   0  0.0 spi2
+   73     0 -51   -  0.0 irq/33-48060000
+   75     0 -100  -  0.0 53500000.aes-en
+   89     0 -51   -  0.0 irq/185-TI-am33
+   90     0 -51   -  0.0 irq/189-4803800
+   91     0 -51   -  0.0 irq/188-4803800
+   92     0   0 -20  0.0 ipv6_addrconf
+   93     0   0 -20  0.0 bioset
+   96     0   0 -20  0.0 bioset
+   97     0  20   0  0.0 mmcqd/1
+   98     0   0 -20  0.0 bioset
+  102     0  20   0  0.0 mmcqd/1boot0
+  103     0   0 -20  0.0 bioset
+  105     0  20   0  0.0 mmcqd/1boot1
+  108     0 -51   -  0.0 irq/162-44e0b00
+  109     0 -51   -  0.0 irq/200-tps6521
+  176     0   0 -20  0.0 kworker/0:1H
+  721     0  20   0  0.0 jbd2/mmcblk1p1-
+  722     0   0 -20  0.0 ext4-rsv-conver
+  752     0  20   0  0.0 systemd-journal
+  757     0  20   0  0.0 kauditd
+  769     0  20   0  0.0 systemd-udevd
+  799     0  20   0  0.0 cron
+  803     0  20   0  0.0 systemd-logind
+  807     1  20   0  0.0 atd
+  809   107  20   0  0.0 avahi-daemon
+  811     0  20   0  0.0 nodejs
+  816     0  20   0  0.0 rsyslogd
+  820   107  20   0  0.0 avahi-daemon
+  822   106  20   0  0.0 dbus-daemon
+  848     0  20   0  0.0 connmand
+  920     0  20   0  0.0 wpa_supplicant
+  925     0  20   0  0.0 ptp0
+  944     0  20   0  0.0 file-storage
+ 1677     0  20   0  0.0 agetty
+ 1678     0  20   0  0.0 agetty
+ 1680     0  20   0  0.0 sshd
+ 1684   105  20   0  0.0 dnsmasq
+ 1695     0  20   0  0.0 agetty
+ 1712     0  20   0  0.0 apache2
+ 1713    33  20   0  0.0 apache2
+ 1714    33  20   0  0.0 apache2
+ 1851  1000  20   0  0.0 tmux: client
+ 1853  1000  20   0  0.0 bash
+ 1855  1000  20   0  0.0 bash
+ 1858  1000  20   0  0.0 tmux: client
+ 1860  1000  20   0  0.0 bash
+ 1862  1000  20   0  0.0 bash
+ 1898  1000  20   0  0.0 tmux: client
+ 1900  1000  20   0  0.0 bash
+ 1902  1000  20   0  0.0 bash
+ 2014  1000  20   0  0.0 tmux: client
+ 5915  1000  20   0  0.0 tmux: client
+ 5917  1000  20   0  0.0 bash
+ 5919  1000  20   0  0.0 bash
+ 8832     0  20   0  0.0 kworker/u2:2
+11428     0  20   0  0.0 kworker/0:0
+11502  1000  20   0  0.0 opc_ua_server
+11513  1000  20   0  0.0 opc_ua_client
+13557     0  20   0  0.0 kworker/u2:0
+13936     0  20   0  0.0 kworker/0:1
+14902  1000  20   0  0.0 sh
+14903  1000  20   0  0.0 ps
